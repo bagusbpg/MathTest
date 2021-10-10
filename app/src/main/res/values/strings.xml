@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MathTest</string>
+    <string name="welcome">Practice your math skills by solving random 10 university-entrance-level exam problems in under 20 minutes!\n\nCorrect, blank, and wrong answer will be awarded +4, 0, and -1 points, respectively. Are you ready?</string>
+    <string name="start">Start</string>
+    <string name="previous">Previous</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="skip">Skip</string>
+    <string name="submit_and_finish">Submit and Finish</string>
+    <string name="skip_and_finish">Skip and Finish</string>
+    <string name="exit_message2">from maximum of 40 points.</string>
+    <string name="exit_message0">Your score is</string>
+    <string name="alert">Time is up!</string>
+</resources>
